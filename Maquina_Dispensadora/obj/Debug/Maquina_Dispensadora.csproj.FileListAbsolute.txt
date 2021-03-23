@@ -1,0 +1,7 @@
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\bin\Debug\Maquina_Dispensadora.exe.config
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\bin\Debug\Maquina_Dispensadora.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\bin\Debug\Maquina_Dispensadora.pdb
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\obj\Debug\Maquina_Dispensadora.csprojAssemblyReference.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\obj\Debug\Maquina_Dispensadora.csproj.CoreCompileInputs.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\obj\Debug\Maquina_Dispensadora.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\Maquina_Dispensadora\obj\Debug\Maquina_Dispensadora.pdb
